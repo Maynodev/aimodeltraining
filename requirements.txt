@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+keras
+matplotlib
+seaborn
+jupyter
+pytest
+torch
+torchvision
+pandas
+numpy
+scikit-learn
+tqdm
